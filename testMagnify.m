@@ -1,0 +1,2 @@
+fig = gcf;
+magnifyOnFigure(fig)
